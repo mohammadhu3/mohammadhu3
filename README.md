@@ -1,14 +1,12 @@
-<!-- Animated Header with Gradient + Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=800&duration=3000&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+👋,+I'm+Mohammad+Hussaini;Creative+Web+Developer+🧑‍💻;Building+Modern,+Responsive+Websites" alt="Typing SVG" />
+<h1 align="center" style="color:#3498db;">
+  Hi 👋, I'm <span style="color:#1abc9c;">Mohammad Hussaini</span>
 </h1>
 
 ---
 
 ## 🧑‍💻 About Me
-💡 Always curious & creative  
-🔥 Turning **ideas** into **code**  
-🌍 Love building modern, fast & responsive apps  
+🔥 Passionate Web Developer 🧑‍💻  
+⚡ Building **modern**, **responsive** websites  
 
 ---
 
@@ -16,13 +14,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,git,github,vscode,figma&theme=dark" />
 </p>
-
----
-
-## 🎨 Highlight Projects
-✨ [Portfolio Website](#) — A personal responsive portfolio  
-⚡ [Cool App](#) — Modern web app with cutting-edge stack  
-💻 [Open Source Work](#) — Contributions & experiments  
 
 ---
 
@@ -52,8 +43,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhu3&theme=tokyonight&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadhu3&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadhu3&theme=tokyonight" />
 </p>
