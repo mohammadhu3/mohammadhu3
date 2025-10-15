@@ -1,8 +1,8 @@
-<h1 align="center" style="color:#3498db;">
-  Hi 👋, I'm <span style="color:#1abc9c;">Mohammad Hussaini</span>
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=803232F0&background=FFFFFF00&width=400&lines=Hi!+I'm+Mohammad;Junior+Web+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+</a>
 </h1>
-
----
 
 ## 🧑‍💻 About Me
 🔥 Passionate Web Developer 🧑‍💻  
