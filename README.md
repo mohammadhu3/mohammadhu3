@@ -1,13 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&pause=800&color=00FFF7&background=00000000&center=true&vCenter=true&width=700&lines=⚡+Mohammad+Hosseini+⚡;Full-Stack+Visionary+Developer;Innovation+Is+My+Code;Welcome+To+The+Future!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=900&color=F5B041&center=true&vCenter=true&width=600&lines=🔥+Hi!+I'm+Mohammad+Hosseini+🔥;💻+Creative+Full-Stack+Developer;🚀+Building+Digital+Dreams;✨+Turning+Ideas+Into+Reality;👑+Welcome+To+My+World!" alt="Typing SVG" />
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Innovator-infinite?style=for-the-badge&logoColor=00FFF7&labelColor=000000&color=0D1117" />
-  <img src="https://img.shields.io/badge/💻_Code_Artist-infinite?style=for-the-badge&logoColor=00FFF7&labelColor=000000&color=0D1117" />
-</p>
 
 
 
